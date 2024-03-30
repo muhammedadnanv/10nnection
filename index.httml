@@ -1,0 +1,851 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Home - 10nnection</title>
+  <meta content="10nnection" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="https://i.ibb.co/McyGNZ6/logo.png" rel="icon">
+  <link href="https://i.ibb.co/McyGNZ6/logo.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Append
+  * Template URL: https://bootstrapmade.com/append-bootstrap-website-template/
+  * Updated: Mar 17 2024 with Bootstrap v5.3.3
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body class="index-page" data-bs-spy="scroll" data-bs-target="#navmenu">
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="header fixed-top d-flex align-items-center">
+    <div class="container-fluid d-flex align-items-center justify-content-between">
+
+      <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <!-- <img src="assets/img/logo.png" alt=""> -->
+        <h1>10nnection</h1>
+        <span>.</span>
+      </a>
+
+      <!-- Nav Menu -->
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="index.html#hero" class="active">Home</a></li>
+          <li><a href="index.html#about">About</a></li>
+          <li><a href="index.html#services">Services</a></li>
+          <li><a href="index.html#portfolio">Portfolio</a></li>
+          <li><a href="index.html#team">Team</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li class="dropdown has-dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down"></i></a>
+            <ul class="dd-box-shadow">
+              <li><a href="#">Dropdown 1</a></li>
+              <li class="dropdown has-dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down"></i></a>
+                <ul class="dd-box-shadow">
+                  <li><a href="#">Deep Dropdown 1</a></li>
+                  <li><a href="#">Deep Dropdown 2</a></li>
+                  <li><a href="#">Deep Dropdown 3</a></li>
+                  <li><a href="#">Deep Dropdown 4</a></li>
+                  <li><a href="#">Deep Dropdown 5</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Dropdown 2</a></li>
+              <li><a href="#">Dropdown 3</a></li>
+              <li><a href="#">Dropdown 4</a></li>
+            </ul>
+          </li>
+          <li><a href="index.html#contact">Contact</a></li>
+        </ul>
+
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav><!-- End Nav Menu -->
+
+      <a class="btn-getstarted" href="index.html#about">Get Started</a>
+
+    </div>
+  </header><!-- End Header -->
+
+  <main id="main">
+
+    <!-- Hero Section - Home Page -->
+    <section id="hero" class="hero">
+
+      <img src="https://i.ibb.co/sRDwJP4/303.gif" alt="description">
+
+
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-10">
+            <h2 data-aos="fade-up" data-aos-delay="100">Welcome to 10nnection</h2>
+            <p data-aos="fade-up" data-aos-delay="200"> Where NFT Card Development Meets Home Automation</p>
+          </div>
+          <div class="col-lg-5">
+            <form action="#" class="sign-up-form d-flex" data-aos="fade-up" data-aos-delay="300">
+              <input type="text" class="form-control" placeholder="Enter email address">
+              <input type="submit" class="btn btn-primary" value="Sign up">
+            </form>
+          </div>
+        </div>
+      </div>
+
+    </section><!-- End Hero Section -->
+
+  
+
+        </div>
+
+      </div>
+
+    </section><!-- End Clients Section -->
+
+    <!-- About Section - Home Page -->
+    <section id="about" class="about">
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <div class="row align-items-xl-center gy-5">
+
+          <div class="col-xl-5 content">
+            <h3>About Us</h3>
+            <h2>Welcome to 10nnection</h2>
+            <p>
+              where creativity meets technology to shape the future. We're a dynamic team dedicated to revolutionizing digital experiences through our expertise in NFT card development and home automation solutions.
+
+Our mission is simple: to bridge the gap between art and innovation, creating seamless connections that enhance lives and inspire imagination. With a passion for excellence and a commitment to pushing the boundaries of what's possible, we invite you to join us on this exciting journey into the future.
+
+At 10nnection, the possibilities are endless, and the future is now.
+            </p>
+            <a href="#" class="read-more"><span>Read More</span><i class="bi bi-arrow-right"></i></a>
+          </div>
+          <div class="col-xl-7">
+            <div class="row gy-4 icon-boxes">
+          
+              <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
+                <div class="icon-box">
+                  <i class="bi bi-buildings"></i>
+                  <h3>Who We Are</h3>
+                  <p>10nnection is a forward-thinking company dedicated to pushing the boundaries of innovation. We specialize in creating captivating NFT cards and cutting-edge home automation solutions that redefine the way we interact with technology.</p>
+                </div>
+              </div> <!-- End Icon Box -->
+          
+              <div class="col-md-6" data-aos="fade-up" data-aos-delay="300">
+                <div class="icon-box">
+                  <i class="bi bi-clipboard-pulse"></i>
+                  <h3>Our Mission</h3>
+                  <p>At 10nnection, our mission is to revolutionize the digital landscape by seamlessly integrating art and technology. We strive to empower individuals with creative expression through our NFT cards while enhancing everyday living through our home automation solutions.</p>
+                </div>
+              </div> <!-- End Icon Box -->
+          
+              <div class="col-md-6" data-aos="fade-up" data-aos-delay="400">
+                <div class="icon-box">
+                  <i class="bi bi-command"></i>
+                  <h3>Our Values</h3>
+                  <p>Integrity, innovation, and excellence are at the core of everything we do. We are committed to delivering exceptional products and services that exceed expectations while maintaining the highest standards of professionalism and ethical conduct.</p>
+                </div>
+              </div> <!-- End Icon Box -->
+          
+              <div class="col-md-6" data-aos="fade-up" data-aos-delay="500">
+                <div class="icon-box">
+                  <i class="bi bi-graph-up-arrow"></i>
+                  <h3>Why Choose Us</h3>
+                  <p>With a dedicated team of experts and a passion for pushing boundaries, 10nnection is your trusted partner in unlocking the full potential of digital creativity and smart living. Join us on our journey to shape the future of technology.</p>
+                </div>
+              </div> <!-- End Icon Box -->
+            </div>
+          </div>
+          
+       
+              
+
+              
+
+             
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </section><!-- End About Section -->
+
+    <!-- Stats Section - Home Page -->
+    <section id="stats" class="stats">
+
+      <img src="https://i.ibb.co/4sDNH2N/Designer.png" alt="" data-aos="fade-in">
+
+      <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Clients</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Projects</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Hours Of Support</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Workers</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+        </div>
+
+      </div>
+
+    </section><!-- End Stats Section -->
+    <!-- Services Section - Home Page -->
+<section id="services" class="services">
+
+  <!--  Section Title -->
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Our Services</h2>
+    <p>Explore the range of services we offer to meet your needs and elevate your experience.</p>
+  </div><!-- End Section Title -->
+
+  <div class="container">
+
+    <div class="row gy-4">
+
+      <div class="col-lg-6 " data-aos="fade-up" data-aos-delay="100">
+        <div class="service-item d-flex">
+          <div class="icon flex-shrink-0"><i class="bi bi-briefcase"></i></div>
+          <div>
+            <h4 class="title">NFT Card Development</h4>
+            <p class="description">Unlock the potential of digital artistry with our bespoke NFT card development services. From concept to creation, we specialize in crafting captivating NFT cards that stand out in the digital landscape.</p>
+          </div>
+        </div>
+      </div>
+      <!-- End Service Item -->
+
+      <div class="col-lg-6 " data-aos="fade-up" data-aos-delay="200">
+        <div class="service-item d-flex">
+          <div class="icon flex-shrink-0"><i class="bi bi-card-checklist"></i></div>
+          <div>
+            <h4 class="title">Home Automation Solutions</h4>
+            <p class="description">Experience the future of smart living with our innovative home automation solutions. From lighting and climate control to security and entertainment, we design systems that seamlessly integrate into your lifestyle.</p>
+          </div>
+        </div>
+      </div><!-- End Service Item -->
+
+      <div class="col-lg-6 " data-aos="fade-up" data-aos-delay="300">
+        <div class="service-item d-flex">
+          <div class="icon flex-shrink-0"><i class="bi bi-laptop"></i></div>
+          <div>
+            <h4 class="title">Website Development</h4>
+            <p class="description">Enhance your online presence with our custom website development services. From sleek and modern designs to robust functionality, we create websites that engage your audience and drive results.</p>
+          </div>
+        </div>
+      </div><!-- End Service Item -->
+
+      <!-- Add more service items as needed -->
+
+    </div>
+  </div>
+</section>
+
+  
+
+        </div>
+
+      </div>
+
+    </section><!-- End Services Section -->
+<!-- Features Section - Home Page -->
+<section id="features" class="features">
+
+  <!--  Section Title -->
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Features</h2>
+    <p>Explore the key features that set us apart from the rest.</p>
+  </div><!-- End Section Title -->
+
+  <div class="container">
+
+    <!-- First Feature Item -->
+    <div class="row gy-4 align-items-center features-item">
+      <div class="col-lg-5 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
+        <h3>Custom NFT Card Development</h3>
+        <p>Unleash your creativity with our custom NFT card development services. Whether you're an artist, collector, or enthusiast, we provide tailored solutions to bring your vision to life in the digital realm.</p>
+        <a href="#" class="btn btn-get-started">Get Started</a>
+      </div>
+      <div class="col-lg-7 order-1 order-lg-2 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="100">
+        <div class="image-stack">
+          <img src="" alt="" class="stack-front">
+          <img src="" alt="" class="stack-back">
+        </div>
+      </div>
+    </div><!-- End First Feature Item -->
+
+    <!-- Second Feature Item -->
+    <div class="row gy-4 align-items-stretch justify-content-between features-item">
+      <div class="col-lg-6 d-flex align-items-center features-img-bg" data-aos="zoom-out">
+        <img src="https://i.ibb.co/zJtD7xZ/1384a75d-19f1-41d7-8270-e57e04df31ed.jpg" class="img-fluid" alt="">
+      </div>
+      <div class="col-lg-5 d-flex justify-content-center flex-column" data-aos="fade-up">
+        <h3>Smart Home Automation</h3>
+        <p>Experience the convenience of smart living with our home automation solutions. From lighting and climate control to security and entertainment, we provide intuitive systems that enhance your lifestyle.</p>
+        <ul>
+          <li><i class="bi bi-check"></i> <span>Effortlessly control your home's environment from anywhere.</span></li>
+          <li><i class="bi bi-check"></i><span>Optimize energy usage and reduce utility bills.</span></li>
+          <li><i class="bi bi-check"></i> <span>Enhance security with integrated surveillance and access control.</span></li>
+        </ul>
+        <a href="#" class="btn btn-get-started align-self-start">Get Started</a>
+      </div>
+    </div><!-- End Second Feature Item -->
+
+    <!-- Third Feature Item -->
+    <div class="row gy-4 align-items-center features-item">
+      <div class="col-lg-5 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
+        <h3>Website Development</h3>
+        <p>Elevate your online presence with our professional website development services. From sleek and responsive designs to robust functionality, we create websites that engage your audience and drive results.</p>
+        <a href="#" class="btn btn-get-started">Get Started</a>
+      </div>
+      <div class="col-lg-7 order-1 order-lg-2 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="100">
+        <div class="image-stack">
+          <img src="assets/img/features-website.jpg" alt="" class="stack-front">
+          <img src="assets/img/features-website-back.jpg" alt="" class="stack-back">
+        </div>
+      </div>
+    </div><!-- End Third Feature Item -->
+
+    <!-- Add more feature items as needed -->
+
+  </div>
+</section>
+
+   
+    </section><!-- End Features Section -->
+
+    <!-- Portfolio Section - Home Page -->
+    <!-- End Portfolio Item -->
+    <section id="portfolio" class="portfolio">
+
+      <!--  Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Portfolio</h2>
+        <p>Explore some of our recent projects showcasing our expertise in NFT cards, website development, and home automation.</p>
+      </div><!-- End Section Title -->
+    
+      <div class="container">
+    
+        <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+    
+          <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
+            <li data-filter="*" class="filter-active">All</li>
+            <li data-filter=".filter-nft">NFT Cards</li>
+            <li data-filter=".filter-web">Website Development</li>
+            <li data-filter=".filter-automation">Home Automation</li>
+          </ul><!-- End Portfolio Filters -->
+    
+          <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
+    
+            <!-- Example NFT Card Portfolio Item -->
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-nft">
+              <img src="assets/img/nft-cards/nft-card-1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>NFT Card 1</h4>
+                <p>Unique digital collectible</p>
+                <a href="assets/img/nft-cards/nft-card-1.jpg" title="NFT Card 1" data-gallery="portfolio-gallery-nft" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div>
+    
+            <!-- Example Website Development Portfolio Item -->
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
+              <img src="assets/img/website-development/website-project-1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Website Project 1</h4>
+                <p>Responsive and sleek design</p>
+                <a href="assets/img/website-development/website-project-1.jpg" title="Website Project 1" data-gallery="portfolio-gallery-web" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div>
+    
+            <!-- Example Home Automation Portfolio Item -->
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-automation">
+              <img src="assets/img/home-automation/home-project-1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Home Automation Project 1</h4>
+                <p>Smart living solutions</p>
+                <a href="assets/img/home-automation/home-project-1.jpg" title="Home Automation Project 1" data-gallery="portfolio-gallery-automation" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div>
+    
+            <!-- Add more portfolio items as needed -->
+    
+          </div><!-- End Isotope Container -->
+        </div><!-- End Isotope Layout -->
+      </div><!-- End Container -->
+    </section>
+    
+   
+            </div><!-- End Portfolio Item -->
+
+          </div><!-- End Portfolio Container -->
+
+        </div>
+
+      </div>
+
+    </section><!-- End Portfolio Section -->
+
+    <!-- Pricing Section - Home Page -->
+    <section id="pricing" class="pricing">
+
+      <!--  Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Pricing</h2>
+        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="zoom-in" data-aos-delay="100">
+        <div class="row g-4">
+            <div class="col-lg-4">
+                <div class="pricing-item">
+                    <h3>Website Development Plan</h3>
+                    <div class="icon">
+                        <i class="bi bi-laptop"></i>
+                    </div>
+                    <h4><sup>$</sup>99<span> / month</span></h4>
+                    <ul>
+                        <li><i class="bi bi-check"></i> <span>Responsive and modern website designs</span></li>
+                        <li><i class="bi bi-check"></i> <span>Custom functionality development</span></li>
+                        <li><i class="bi bi-check"></i> <span>SEO optimization and performance tuning</span></li>
+                        <li><i class="bi bi-check"></i> <span>Regular updates and maintenance</span></li>
+                        <li><i class="bi bi-check"></i> <span>24/7 technical support</span></li>
+                    </ul>
+                    <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
+                </div>
+            </div><!-- End Pricing Item -->
+    
+            <div class="col-lg-4">
+                <div class="pricing-item featured">
+                    <h3>NFT Card Plan</h3>
+                    <div class="icon">
+                        <i class="bi bi-card-checklist"></i>
+                    </div>
+                    <h4><sup>$</sup>49<span> / month</span></h4>
+                    <ul>
+                        <li><i class="bi bi-check"></i> <span>Custom NFT card design and development</span></li>
+                        <li><i class="bi bi-check"></i> <span>Blockchain integration for authenticity</span></li>
+                        <li><i class="bi bi-check"></i> <span>Digital art optimization and enhancement</span></li>
+                        <li><i class="bi bi-check"></i> <span>Secure storage and distribution</span></li>
+                        <li><i class="bi bi-check"></i> <span>Community engagement tools</span></li>
+                    </ul>
+                    <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
+                </div>
+            </div><!-- End Pricing Item -->
+    
+            <div class="col-lg-4">
+                <div class="pricing-item">
+                    <h3>Home Automation Plan</h3>
+                    <div class="icon">
+                        <i class="bi bi-house-door"></i>
+                    </div>
+                    <h4><sup>$</sup>79<span> / month</span></h4>
+                    <ul>
+                        <li><i class="bi bi-check"></i> <span>Smart device installation and setup</span></li>
+                        <li><i class="bi bi-check"></i> <span>Integration with existing home systems</span></li>
+                        <li><i class="bi bi-check"></i> <span>Remote control and monitoring</span></li>
+                        <li><i class="bi bi-check"></i> <span>Energy-efficient automation rules</span></li>
+                        <li><i class="bi bi-check"></i> <span>Customizable scenes and schedules</span></li>
+                    </ul>
+                    <div class="text-center"><a href="#" class="buy-btn">Buy Now</a></div>
+                </div>
+            </div><!-- End Pricing Item -->
+        </div><!-- End Row -->
+    </div><!-- End Container -->
+    
+        </div>
+
+      </div>
+
+    </section><!-- End Pricing Section -->
+
+    <section id="faq" class="faq">
+
+      <div class="container">
+    
+        <div class="row gy-4">
+    
+          <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+            <div class="content px-xl-5">
+              <h3><span>Frequently Asked </span><strong>Questions</strong></h3>
+              <p>
+                Find answers to common questions about our services in website development, NFT cards, and home automation.
+              </p>
+            </div>
+          </div>
+    
+          <div class="col-lg-8" data-aos="fade-up" data-aos-delay="200">
+    
+            <div class="faq-container">
+              <div class="faq-item faq-active">
+                <h3><span class="num">1.</span> <span>What services do you offer in website development?</span></h3>
+                <div class="faq-content">
+                  <p>We offer responsive website design, custom functionality development, SEO optimization, and maintenance services.</p>
+                </div>
+                <i class="faq-toggle bi bi-chevron-right"></i>
+              </div><!-- End Faq item-->
+    
+              <div class="faq-item">
+                <h3><span class="num">2.</span> <span>Can you explain your website development process?</span></h3>
+                <div class="faq-content">
+                  <p>Our website development process involves consultation, design mockups, development, testing, and deployment.</p>
+                </div>
+                <i class="faq-toggle bi bi-chevron-right"></i>
+              </div><!-- End Faq item-->
+    
+              <div class="faq-item">
+                <h3><span class="num">3.</span> <span>How can I get started with NFT cards?</span></h3>
+                <div class="faq-content">
+                  <p>To start with NFT cards, reach out to us to discuss your requirements and design preferences.</p>
+                </div>
+                <i class="faq-toggle bi bi-chevron-right"></i>
+              </div><!-- End Faq item-->
+    
+              <div class="faq-item">
+                <h3><span class="num">4.</span> <span>What tools and technologies do you use for NFT card development?</span></h3>
+                <div class="faq-content">
+                  <p>We use blockchain technology, smart contracts, and digital art tools for NFT card development.</p>
+                </div>
+                <i class="faq-toggle bi bi-chevron-right"></i>
+              </div><!-- End Faq item-->
+    
+              <div class="faq-item">
+                <h3><span class="num">5.</span> <span>What home automation solutions do you provide?</span></h3>
+                <div class="faq-content">
+                  <p>We offer smart device installation, integration, remote control, energy-efficient automation, and customization.</p>
+                </div>
+                <i class="faq-toggle bi bi-chevron-right"></i>
+              </div><!-- End Faq item-->
+              
+              <div class="faq-item">
+                <h3><span class="num">6.</span> <span>Can you explain the benefits of home automation?</span></h3>
+                <div class="faq-content">
+                  <p>Home automation offers convenience, energy efficiency, security, and remote access to your home systems.</p>
+                </div>
+                <i class="faq-toggle bi bi-chevron-right"></i>
+              </div><!-- End Faq item-->
+    
+            </div><!-- End faq-container -->
+          </div><!-- End col-lg-8 -->
+        </div><!-- End row -->
+      </div><!-- End container -->
+    </section><!-- End faq section -->
+    
+
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+
+    </section><!-- End Faq Section -->
+    <section id="team" class="team">
+
+      <!--  Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Team</h2>
+        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+      </div><!-- End Section Title -->
+    
+      <div class="container">
+    
+        <div class="row gy-5">
+    
+          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="100">
+            <div class="member-img">
+              <!-- Removed image -->
+              <div class="social">
+                <a href="#"><i class="bi bi-twitter"></i></a>
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-instagram"></i></a>
+                <a href="#"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info text-center">
+              <h4>Fadil Muhammed</h4>
+              <span>Chief Executive Officer</span>
+              <p>Aliquam iure quaerat voluptatem praesentium possimus unde laudantium vel dolorum distinctio dire flow</p>
+            </div>
+          </div><!-- End Team Member -->
+    
+          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="200">
+            <div class="member-img">
+              <!-- Removed image -->
+              <div class="social">
+                <a href="#"><i class="bi bi-twitter"></i></a>
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-instagram"></i></a>
+                <a href="#"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info text-center">
+              <h4>Memmeber 1</h4>
+              <span>Product Manager</span>
+              <p>Labore ipsam sit consequatur exercitationem rerum laboriosam laudantium aut quod dolores exercitationem ut</p>
+            </div>
+          </div><!-- End Team Member -->
+    
+          <div class="col-lg-4 col-md-6 member" data-aos="fade-up" data-aos-delay="300">
+            <div class="member-img">
+              <!-- Removed image -->
+              <div class="social">
+                <a href="#"><i class="bi bi-twitter"></i></a>
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-instagram"></i></a>
+                <a href="#"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info text-center">
+              <h4>Memmeber 2</h4>
+              <span>CTO</span>
+              <p>Illum minima ea autem doloremque ipsum quidem quas aspernatur modi ut praesentium vel tque sed facilis at qui</p>
+            </div>
+          </div><!-- End Team Member -->
+    
+          <!-- Add more team members here -->
+    
+        </div>
+    
+      </div>
+    
+    </section>  
+    
+   <!-- End Team Section -->
+
+   
+          
+
+       
+
+  
+    <!-- Contact Section - Home Page -->
+    <section id="contact" class="contact">
+
+      <!--  Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Contact</h2>
+        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-6">
+
+            <div class="row gy-4">
+              <div class="col-md-6">
+                <div class="info-item" data-aos="fade" data-aos-delay="200">
+                  <i class="bi bi-geo-alt"></i>
+                  <h3>Address</h3>
+                  <p>A108 Adam Street</p>
+                  <p>New York, NY 535022</p>
+                </div>
+              </div><!-- End Info Item -->
+
+              <div class="col-md-6">
+                <div class="info-item" data-aos="fade" data-aos-delay="300">
+                  <i class="bi bi-telephone"></i>
+                  <h3>Call Us</h3>
+                  <p>+1 5589 55488 55</p>
+                  <p>+1 6678 254445 41</p>
+                </div>
+              </div><!-- End Info Item -->
+
+              <div class="col-md-6">
+                <div class="info-item" data-aos="fade" data-aos-delay="400">
+                  <i class="bi bi-envelope"></i>
+                  <h3>Email Us</h3>
+                  <p>info@example.com</p>
+                  <p>contact@example.com</p>
+                </div>
+              </div><!-- End Info Item -->
+
+              <div class="col-md-6">
+                <div class="info-item" data-aos="fade" data-aos-delay="500">
+                  <i class="bi bi-clock"></i>
+                  <h3>Open Hours</h3>
+                  <p>Monday - Friday</p>
+                  <p>9:00AM - 05:00PM</p>
+                </div>
+              </div><!-- End Info Item -->
+
+            </div>
+
+          </div>
+
+          <div class="col-lg-6">
+            <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
+              <div class="row gy-4">
+
+                <div class="col-md-6">
+                  <input type="text" name="name" class="form-control" placeholder="Your Name" required>
+                </div>
+
+                <div class="col-md-6 ">
+                  <input type="email" class="form-control" name="email" placeholder="Your Email" required>
+                </div>
+
+                <div class="col-md-12">
+                  <input type="text" class="form-control" name="subject" placeholder="Subject" required>
+                </div>
+
+                <div class="col-md-12">
+                  <textarea class="form-control" name="message" rows="6" placeholder="Message" required></textarea>
+                </div>
+
+                <div class="col-md-12 text-center">
+                  <div class="loading">Loading</div>
+                  <div class="error-message"></div>
+                  <div class="sent-message">Your message has been sent. Thank you!</div>
+
+                  <button type="submit">Send Message</button>
+                </div>
+
+              </div>
+            </form>
+          </div><!-- End Contact Form -->
+
+        </div>
+
+      </div>
+
+    </section><!-- End Contact Section -->
+
+  </main>
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer" class="footer">
+
+    <div class="container footer-top">
+      <div class="row gy-4">
+        <div class="col-lg-5 col-md-12 footer-about">
+          <a href="index.html" class="logo d-flex align-items-center">
+            <span>10nnection</span>
+          </a>
+          <p>10nnection: Where Innovation Meets Connectivity</p>
+          <div class="social-links d-flex mt-4">
+            <a href=""><i class="bi bi-twitter"></i></a>
+            <a href=""><i class="bi bi-facebook"></i></a>
+            <a href=""><i class="bi bi-instagram"></i></a>
+            <a href=""><i class="bi bi-linkedin"></i></a>
+          </div>
+        </div>
+
+        <div class="col-lg-2 col-6 footer-links">
+          <h4>Useful Links</h4>
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About us</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Terms of service</a></li>
+            <li><a href="#">Privacy policy</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-2 col-6 footer-links">
+          <h4>Our Services</h4>
+          <ul>
+            <li><a href="#">Website Development</a></li>
+            <li><a href="#">NFT Cards</a></li>
+            <li><a href="#">Home Automation</a></li>
+          </ul>
+        </div>
+        
+                
+
+        <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
+          <h4>Contact Us</h4>
+          <p>ramdon <address></address></p>
+          <p>New York, NY 535022</p>
+          <p>United States</p>
+          <p class="mt-4"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
+          <p><strong>Email:</strong> <span>info@example.com</span></p>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="container copyright text-center mt-4">
+      <p>&copy; <span>Copyright</span> <strong class="px-1">10nnection</strong> <span>All Rights Reserved</span></p>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you've purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
+        Designed and Developed  by <a href="https://adwebcomicagency.vercel.app/">Ad web comic Agency</a>
+      </div>
+    </div>
+
+  </footer><!-- End Footer -->
+
+  <!-- Scroll Top Button -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
